@@ -14,4 +14,4 @@ Following packages are required to run the scripts:
 `python main.py`
 
 ### Testing
-`py -m pytest ./tests`
+`python -m pytest ./tests`
